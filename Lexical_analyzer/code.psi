@@ -1,0 +1,13 @@
+/* checks true and false answers with psi++ code */
+float number1 := 10;
+float number2 := 20;
+int counter := 0;
+/* Check the addition */
+if (number + number2 := 30) {
+    char string_true[] := "That Correct";
+    counter ++;
+    }
+else{
+    char string_false[] := "That Uncorrect";
+    counter --;
+    }
